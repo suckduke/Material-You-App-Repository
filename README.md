@@ -254,8 +254,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
-- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
 - [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
 - [Large Plate](https://zhixianziyuan.lanzoul.com/izlhI0yr0zqd) **`Full`**
 - [Unapp](https://play.google.com/store/apps/details?id=vladyslavpohrebniakov.uninstaller) **`MD`**
@@ -269,6 +267,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [VIC](https://github.com/iamlooper/VIC) **`Full`**
 - [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile) **`MD-`**
 - [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
+- [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
+- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -436,6 +436,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
 	- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
 	- [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
+	- [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
 - **Mail**    
    	- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full` `💴`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full` `FOSS`**    
@@ -850,6 +851,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full` `FOSS`**
 	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 	- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
+	- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
 - **Stocks**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **Traffic**
