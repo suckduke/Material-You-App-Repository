@@ -297,8 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
-- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
 - [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
 - [大字板](https://zhixianziyuan.lanzoul.com/izlhI0yr0zqd) **`Full`**
 - [Unapp](https://play.google.com/store/apps/details?id=vladyslavpohrebniakov.uninstaller) **`MD`**
@@ -312,6 +310,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [VIC](https://github.com/iamlooper/VIC) **`Full`**
 - [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile) **`MD-`**
 - [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
+- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
+- [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -477,6 +477,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
 	- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
 	- [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
+	- [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
 - **邮件**
    	- [Spark邮箱](https://play.google.com/store/apps/details?id=com.readdle.spark) **`Full` `💴`**    
    	- [Informaniak KMail](https://github.com/Infomaniak/android-kMail) **`Full` `FOSS`**    
@@ -891,6 +892,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full` `FOSS`**
 	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 	- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
+	- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
 - **股票**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **交通**
