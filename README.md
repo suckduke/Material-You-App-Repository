@@ -254,10 +254,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
-- [Large Plate](https://zhixianziyuan.lanzoul.com/izlhI0yr0zqd) **`Full`**
-- [Unapp](https://play.google.com/store/apps/details?id=vladyslavpohrebniakov.uninstaller) **`MD`**
-- [RnSAMP](https://wws.lanzoul.com/b00bhtqd) **`MD`**
 - [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
 - [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
 - [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
@@ -269,6 +265,10 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
 - [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
 - [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
+- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
+- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
+- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
+- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -525,6 +525,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
+	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
@@ -831,6 +832,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [99 Names Of Allah](https://play.google.com/store/apps/details?id=com.appsforall.ninetyninenamesofallah) **`MD`**
    	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
    	- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
+   	- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
 - **Tracking Services**
 	- [MyACG](https://1drv.ms/u/s!Atk49Scq_BtYhGnlrCISLKe5fG3A?e=BIvlj6) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi` `💴`**
@@ -870,6 +872,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
    	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+   	- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
 - **Others**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
@@ -1209,6 +1212,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Multi Caculator](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS` `FOSS`**
    	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
    	- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
+   	- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 - **Translator**    
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
    	- [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**    
