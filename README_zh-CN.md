@@ -297,7 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
 - [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
 - [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
 - [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
@@ -312,6 +311,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
 - [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 - [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
+- [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -864,6 +864,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD` `FOSS`**
 	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet` `FOSS`**
 	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO` `FOSS`**
+	- [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
 - **语言学习**
 	- [Owl](https://github.com/yamin8000/Owl2) **`Full` `FOSS`**
 	- [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) **`MD` `Multi` `FOSS`**
