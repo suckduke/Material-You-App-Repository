@@ -297,10 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [WADB](https://play.google.com/store/apps/details?id=moe.haruue.wadb) **`Full`**
-- [大字板](https://zhixianziyuan.lanzoul.com/izlhI0yr0zqd) **`Full`**
-- [Unapp](https://play.google.com/store/apps/details?id=vladyslavpohrebniakov.uninstaller) **`MD`**
-- [RnSAMP](https://wws.lanzoul.com/b00bhtqd) **`MD`**
 - [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
 - [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
 - [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
@@ -310,8 +306,12 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [VIC](https://github.com/iamlooper/VIC) **`Full`**
 - [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile) **`MD-`**
 - [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
-- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
+- [蜜柑计划](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
 - [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
+- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
+- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
+- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
+- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -566,6 +566,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Mellow Music](https://github.com/SuhasDissa/MellowMusic) **`Full` `FOSS`**
 	- [和弦](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
+	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
@@ -872,6 +873,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [99 Names Of Allah](https://play.google.com/store/apps/details?id=com.appsforall.ninetyninenamesofallah) **`MD`**
 	- [English with Lidia Plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) **`Full`**
 	- [Dymka](https://github.com/nexy791/dymka) **`MD` `FOSS`**
+	- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
 - **追踪管理**
 	- [MyACG](https://busisu.lanzoub.com/iHM710u8lvbc) (密码2tka) **`MD`**
 	- [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore) **`Full` `Multi` `💴`**
@@ -892,7 +894,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Nekome](https://github.com/Chesire/Nekome) **`Full` `FOSS`**
 	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 	- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
-	- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
+	- [蜜柑计划](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
 - **股票**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **交通**
@@ -911,6 +913,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
 	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
+	- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
 - **其他**
 	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
@@ -1250,6 +1253,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [多功能计算器](https://play.google.com/store/apps/details?id=com.yangdai.calc) **`Full` `Multi` `FOSS`**
    	- [Physics Calculator](https://play.google.com/store/apps/details?id=com.a3.apurv.phyCalc) **`Full`**
    	- [Mint Calculator](https://github.com/boredcodebyk/mintcalc) **`Full` `Multi` `FOSS`**
+   	- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 - **翻译**
    	- [Translate You](https://github.com/Bnyro/TranslateYou) **`Full` `FOSS`**    
    	- [译站](https://github.com/FunnySaltyFish/FunnyTranslation) **`Full` `Multi` `💴`**
