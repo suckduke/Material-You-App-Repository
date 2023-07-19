@@ -254,7 +254,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
 - [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
 - [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
 - [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
@@ -269,6 +268,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
 - [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 - [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
+- [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -823,6 +823,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [reSentral](https://github.com/JumpyJacko/resentral_flutter) **`MD` `FOSS`**
    	- [Wulkanowy](https://github.com/wulkanowy/wulkanowy) **`MD-` `Monet` `FOSS`**
    	- [Rozvrh](https://github.com/marek-guran/Rozvrh-App-Public) **`TODO` `FOSS`**
+   	- [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
 - **Language Learning**
    	- [Owl](https://github.com/yamin8000/Owl2) **`Full` `FOSS`**
    	- [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) **`MD` `Multi` `FOSS`**
