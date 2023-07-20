@@ -297,12 +297,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
-- [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
-- [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
-- [Video Convertor](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) **`Full` `Multi` `💴`**
-- [Exif Eraser](https://play.google.com/store/apps/details?id=com.none.tom.exiferaser) **`Full`**
-- [VIC](https://github.com/iamlooper/VIC) **`Full`**
 - [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile) **`MD-`**
 - [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
 - [蜜柑计划](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
@@ -312,6 +306,12 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 - [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
 - [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
+- [SignHook](https://github.com/xihan123/SignHook) **`MD`**
+- [Alovoa](https://github.com/Alovoa/alovoa-expo) **`MD-`**
+- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
+- [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) **`Full` `FOSS`**
+- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
+- [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -448,6 +448,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
 	- [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) **`MD-`**
+	- [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 - **Mastodon 及其第三方**
 	- [Mastodon](https://github.com/mastodon/mastodon-android) **`Full` `FOSS`**
 	- [Moshidon](https://github.com/LucasGGamerM/moshidon) **`Full` `FOSS`**
@@ -490,6 +491,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full` `FOSS`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
+	- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
 ---
 ## [🎵媒体播放](#目录)
 - **YouTube 第三方**
@@ -645,6 +647,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog) **`Full` `Multi` `💴`**
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 	- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
+	- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
 - **思维导图**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **歌词编辑**
@@ -896,6 +899,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Tivi](https://play.google.com/store/apps/details?id=app.tivi) **`Full`**
 	- [Pano Scrobbler for LastFM](https://play.google.com/store/apps/details?id=com.arn.scrobble) **`Full`**
 	- [蜜柑计划](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
+	- [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) **`Full` `FOSS`**
 - **股票**
    	- [Stocks Widget](https://github.com/premnirmal/StockTicker) **`MD-` `Monet` `FOSS`**
 - **交通**
@@ -920,6 +924,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full` `FOSS`**
 	- [Ridna](https://github.com/nexy791/Ridna) **`Full` `FOSS`**
+	- [Alovoa](https://github.com/Alovoa/alovoa-expo) **`MD-`**
 ---
 ## [🖌️主题美化](#目录)
 - **启动器**
@@ -1492,6 +1497,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [WA Tweaker](https://watweaker.com/#) **`MD` `FOSS`**
    	- [错误追踪](https://github.com/KitsunePie/AppErrorsTracking) **`MD-` `FOSS`**
    	- [媒体存储管理器](https://github.com/MaterialCleaner/Media-Provider-Manager) **`MD-` `Monet` `FOSS`**
+   	- [SignHook](https://github.com/xihan123/SignHook) **`MD`**
 - **其他需要 Root 权限的工具**
    	- [爱玩机工具箱](https://www.coolapk.com/apk/com.byyoung.setting) **`Full` `💴`**
    	- [Blocker](https://github.com/lihenggui/blocker) **`Full` `Multi` `FOSS`**
