@@ -310,7 +310,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Alovoa](https://github.com/Alovoa/alovoa-expo) **`MD-`**
 - [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) **`Full` `FOSS`**
-- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
+- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
 - [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
@@ -491,7 +491,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full` `FOSS`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
-	- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
+	- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
 ---
 ## [🎵媒体播放](#目录)
 - **YouTube 第三方**
