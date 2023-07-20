@@ -267,7 +267,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Alovoa](https://github.com/Alovoa/alovoa-expo) **`MD-`**
 - [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
 - [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) **`Full` `FOSS`**
-- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
+- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
 - [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
@@ -450,7 +450,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [DankChat](https://github.com/flex3r/DankChat) **`Full` `FOSS`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 	- [Hydrogen](https://myhydrogen.gitee.io/) **`MD-` `FOSS`**
-	- [Jami](https://github.com/kirmanak/Mealient) **`MD`**
+	- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
 ---
 ### [🎵Media](#applist-menu)
 - **Youtube Clients**
