@@ -505,7 +505,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **YouTube Music 第三方**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `Multi` `FOSS`**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `FOSS`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 	- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 	- [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
@@ -575,7 +575,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`MD-` `Monet` `FOSS`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full` `FOSS`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full` `FOSS`**
-	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-` `Monet`**
 	- [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) **`MD-` `Monet` `Multi` `💴`**
 	- [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app) **`Full`**
 - **直播**
@@ -587,7 +587,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `FOSS`**
 - **媒体工具**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi` `💴`**
-	- [Video Convertor](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) **`Full` `Multi` `💴`**
+	- [Video Convertor](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) **`MD-` `Monet` `Multi` `💴`**
 ---
 ## [✍写写画画](#目录)
 - **笔记**
@@ -914,7 +914,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **育儿**
    	- [Babysafe](https://play.google.com/store/apps/details?id=at.techbee.babysafe) **`MD`**
    	- [Aristo Kids Mental Accelerator](https://play.google.com/store/apps/details?id=com.aristo.aristokids) **`MD`**
-- **其他**
+- **智能家居**
 	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
 	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
