@@ -464,7 +464,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Youtube Music Clients**
 	- [ViMusic](https://github.com/vfsfitvnm/ViMusic) **`MD` `Multi` `FOSS`**
 	- [Vibe Music](https://github.com/sheikhhaziq/vibemusic) **`Full` `FOSS`**
-	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `Multi` `FOSS`**
+	- [InnerTune](https://github.com/z-huang/InnerTune) **`Full` `FOSS`**
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 	- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 	- [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
@@ -534,7 +534,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [AntennaPod](https://github.com/AntennaPod/AntennaPod) **`MD-` `Monet` `FOSS`**
 	- [URL Radio](https://github.com/jamal2362/URL-Radio) **`Full` `FOSS`**
 	- [Escapepod](https://codeberg.org/y20k/escapepod) **`Full` `FOSS`**
-	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-`**
+	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-` `Monet`**
 	- [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app) **`Full`**
 	- [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) **`MD-` `Monet` `Multi` `💴`**
 - **Lives**
@@ -546,7 +546,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `FOSS`**
 - **Media Tools**
 	- [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) **`MD-` `Monet` `Multi` `💴`**
-	- [Video Convertor](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) **`Full` `Multi` `💴`**
+	- [Video Convertor](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) **`MD-` `Monet` `Multi` `💴`**
 ---
 ### [✍Writing & Drawing](#applist-menu)
 - **Notes**
