@@ -31,17 +31,13 @@ Different from the emphasis on right angles and shadows by Material Design 2, Ma
 
 However in fact, sometimes Material You refers to the application which (may only) supports Dynamic Color, no matter what kind of style that application applies.
 ### 🏷️Instructions for labels
-- **`MD`** - App whose components are **completely** in MD3 style but **doesn't support** Dynamic Color.
-- **`MD-`** - App whose components are **partly** in MD3 style, which is common when a developer claims his application applies MD3 style but its switch or other component is not in MD3 style. If it supports Dynamic Color, a **`Monet`** label will be added.
-- **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
-- **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
-- **`Multi`** - App that is more friendly for different devices, such as pad and fold.
-- **`MOD`** - App that is modified by unofficial teams. Its original app doesn't apply Material You completely.
-- **`TODO`** - App that has no releases yet. You could preview it in its github repository.
-- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
-- **`💴`** - App that needs to pay to activate some features.
-- **`👻`** - App that stops updating for some reasons.
+- **Basic Labels**
 
+	- **`MD`** - App whose components are **completely** in MD3 style but **doesn't support** Dynamic Color.
+	- **`MD-`** - App whose components are **partly** in MD3 style, which is common when a developer claims his application applies MD3 style but its switch or other component is not in MD3 style. If it supports Dynamic Color, a **`Monet`** label will be added.
+	- **`Monet`** - App that **only** supports Dynamic Color, whose components are **completely not** in MD3 style.
+	- **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
+	- **`Multi`** - App that is more friendly for different devices, such as pad and fold.
 
 |  | Fully Designed | Dynamic Color |
 |:-:|:-:|:-:|
@@ -49,6 +45,15 @@ However in fact, sometimes Material You refers to the application which (may onl
 |**`MD-`**|🚫|-|
 |**`Monet`**|🚫|✅|
 |**`Full`**|✅|✅|
+
+- **Other Labels**
+
+	- **`MOD`** - App that is modified by unofficial teams. Its original app doesn't apply Material You completely.
+	- **`TODO`** - App that has no releases yet. You could preview it in its github repository.
+	- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
+	- **`💴`** - App that needs to pay to activate some features.
+	- **`👻`** - App that stops updating for some reasons.
+	- **`⚠️`** - Apps that violate the open source licenses, may infringe on the rights and interests of other developers, maliciously abuse system permissions, or have other improper behaviors. Evidence will be marked behind.
 
 ### 💖Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
@@ -505,7 +510,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi` `FOSS`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD` `FOSS`**
 	- [Onstream](https://onstream.to/) **`MD-`**
-	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
+	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS` `⚠️`** ([Evidence](https://t.me/misakamaterialyou/461))
 - **Offline Videos Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `FOSS`**
@@ -1338,7 +1343,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Toolbox**    
    	- [Voyage Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhGh4H5XMwB_QVDKK?e=uogimG) **`Full`**    
    	- [Xiaobu Toolbox](https://www.coolapk1s.com/feed/45145335) **`Full`**
-   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full`**  
+   	- [Sevendots Toolbox](https://1drv.ms/u/s!Atk49Scq_BtYhHkWJxcDuAPY25PZ?e=l89paX) **`Full` `⚠️`** ([Evidence](https://www.coolapk1s.com/feed/46962117))
    	- [Plain](https://github.com/ismartcoding/plain-app) **`Full` `FOSS`**
    	- [Tool Master](https://dmla.lanzouo.com/b05pbb76b) **`MD`**
    	- [Twilight](https://1drv.ms/u/s!Atk49Scq_BtYhSI9zraqM2p6NfMG?e=mGHiiV) **`Full`**
