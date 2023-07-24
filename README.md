@@ -39,12 +39,16 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`Full`** - App that **completely** follows Material Design 3, including completely-used MD3 components and Dynamic Color.
 	- **`Multi`** - App that is more friendly for different devices, such as pad and fold.
 
+<div align="center">
+
 |  | Fully Designed | Dynamic Color |
 |:-:|:-:|:-:|
 |**`MD`**|✅|🚫|
 |**`MD-`**|🚫|-|
 |**`Monet`**|🚫|✅|
 |**`Full`**|✅|✅|
+
+</div>
 
 - **Other Labels**
 
@@ -259,8 +263,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
-- [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 - [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
 - [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
@@ -274,6 +276,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
 - [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
 - [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
+- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
+- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -616,6 +620,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 	- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
 	- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
+	- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - **Mind Maps**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **Lyrics Editor**
@@ -1124,6 +1129,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full` `💴`**
    	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
    	- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+   	- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - **Screen Display**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
