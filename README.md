@@ -76,9 +76,9 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **SMS**
 	- **Telegram Clients**
 	- **Encrypted Chatting**
+	- **Instagram Clients**
 	- **Reddit Clients**
 	- **Discord Clients**
-	- **Instagram Clients**
 	- **Twitter Clients**
 	- **Mastodon and its Clients**
 	- **Lemmy Clients**
@@ -254,21 +254,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [eBay](https://play.google.com/store/apps/details?id=com.ebay.mobile) **`MD-`**
-- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
-- [OBViewer](https://github.com/wukgdu/bdwm_viewer) **`Full`**
-- [Mikan](https://github.com/iota9star/mikan_flutter) **`Full` `Multi`**
-- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
-- [Toadua](https://github.com/toaq/toadua-android) **`Full` `FOSS`**
-- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
-- [Calculator Compose](https://github.com/kafri8889/Calculator-Compose) **`TODO`**
-- [VIQRC Hub](https://play.google.com/store/apps/details?id=com.dwabtech.vexhub.viq) **`MD-`**
-- [SignHook](https://github.com/xihan123/SignHook) **`MD`**
-- [Alovoa](https://github.com/Alovoa/alovoa-expo) **`MD-`**
-- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
-- [OpenComicVine](https://github.com/proninyaroslav/OpenComicVine) **`Full` `FOSS`**
 - [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
 - [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
+- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
+- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
+- [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
+- [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
+- [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
+- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
+- [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
+- [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
+- [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
+- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
+- [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
+- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
+- [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -389,6 +389,10 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
+- **Instagram Clients**
+	- [Instander](https://thedise.me/instander/repo/) **`Monet `MOD`**
+	- [Honista](https://t.me/Honistagram) **`Monet `MOD`**
+	- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full` `MD-` `Monet`** 
@@ -399,9 +403,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord Clients**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-- **Instagram Clients**
-	- [Instander](https://thedise.me/instander/repo/) **`Monet`** **`MOD`**
-	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 - **Twitter Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
@@ -415,6 +416,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 	- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
 	- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
+	- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - **Lemmy Clients**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
@@ -503,6 +505,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi` `FOSS`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD` `FOSS`**
 	- [Onstream](https://onstream.to/) **`MD-`**
+	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
 - **Offline Videos Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `FOSS`**
@@ -569,6 +572,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Markdown**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Markdown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor) **`MD`**
+	- [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - **Handwritten**
 	- [Saber](https://github.com/adil192/saber) **`Full` `Multi` `FOSS`**
 	- [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app) **`MD` `💴`**
@@ -673,6 +677,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)  **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi` `💴`**
+- [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 ---
 ### [📖Readers](#applist-menu)
 - **Novels**
@@ -743,6 +748,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Celenganku](https://play.google.com/store/apps/details?id=id.celenganku.app) **`Full`**
 	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full` `FOSS`**
 	- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO` `FOSS`**
+	- [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full` `FOSS`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD` `FOSS`**
@@ -986,6 +992,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Music Widgets for Car Devices](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetauto) **`MD` `💴`**
    	- [Flip Clock](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip) **`Full`**
    	- [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess) **`Full`**
+   	- [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
 - **Dynamic Island**    
    	- [MaterialYou-Dynamic-Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island) **`Full` `FOSS`**    
    	- [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) **`Full` `👻`**    
@@ -1030,6 +1037,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [FTPClient](https://codeberg.org/qwerty287/ftpclient) **`Full` `FOSS`**
    	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD` `FOSS`**
    	- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
+   	- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
 - **Hardware Infomation**
    	- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) **`Full` `💴`**
    	- [Forefrontinfo](https://www.coolapk.com/apk/net.imknown.android.forefrontinfo) **`MD-` `Monet`**
@@ -1059,6 +1067,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Apk Extractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) **`Full`**
    	- [App Watcher](https://1drv.ms/u/s!Atk49Scq_BtYhSXg62mgr93KVGq3?e=fa2RS9) **`MD`**
    	- [Unapp](https://play.google.com/store/apps/details?id=vladyslavpohrebniakov.uninstaller) **`MD`**
+   	- [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
+   	- [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
 - **Freezing Tool**
    	- [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi` `FOSS`**
    	- [FreezeYou](https://github.com/FreezeYou/FreezeYou) **`MD-` `Monet` `FOSS`**
@@ -1317,6 +1327,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) **`Monet`**
    	- [Click Assistant](https://wwxt.lanzout.com/b0dn18zwd) (Password: 7vm2) **`Full`**
    	- [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) **`Full` `💴`**
+   	- [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - **Searching Tool**    
    	- [Gugal](https://gitlab.com/narektor/gugal) **`Full` `FOSS`**    
    	- [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) **`Full`**
@@ -1338,6 +1349,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
+   	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
@@ -1518,7 +1530,8 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
 - **Minecraft Tools**
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-` `FOSS`** 
-   	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet` `FOSS`**    
+   	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet` `FOSS`**
+   	- [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**  
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full` `FOSS`**
    	- [J2ME Downloader](https://github.com/zf1234d/J2me-res-store) **`MD-` `FOSS`**    
