@@ -493,7 +493,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Aniyomi](https://github.com/jmir1/aniyomi) **`MD-` `FOSS`**
 	- [Teapod](https://git.mosad.xyz/Seil0/teapod) **`MD-` `FOSS`**
 	- [Easybangumi](https://easybangumi.org/zh/) **`Full` `Multi` `FOSS`**
-	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi`**
+	- [Awara](http://t.me/misakamaterialyou/199) **`Full` `Multi` `👻`**
 	- [Burning Series](https://github.com/DATL4G/Burning-Series) **`MD` `FOSS`**
 - **Online Videos Services**
 	- [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) **`MD-` `Monet` `FOSS`**
