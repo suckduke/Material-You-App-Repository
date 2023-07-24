@@ -57,6 +57,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **`Full`**：既**支持** Monet 取色，又整体**完全**采用 MD3 设计，标准化的遵循 Material Design 3 设计的应用。
 	- **`Multi`**：对平板、折叠屏等设备不同尺寸的屏幕适配效果很好的应用（注意，这个标签只针对对大屏设备有专门设计的分栏式布局的应用，简单的将应用元素拉伸并不能称得上是适配较好）。
 
+<div align="center">
 
 |  | 完全体 MD3 设计 | Monet 取色 |
 |:-:|:-:|:-:|
@@ -64,6 +65,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 |**`MD-`**|🚫|-|
 |**`Monet`**|🚫|✅|
 |**`Full`**|✅|✅|
+
+</div>
 
 - **其他标签**
 
@@ -274,8 +277,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Jami](https://git.jami.net/savoirfairelinux/jami-client-android) **`MD`**
-- [Squawker](https://github.com/j-fbriere/squawker) **`Monet` `FOSS`**
 - [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
 - [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
@@ -289,6 +290,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
 - [521影视](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
 - [点击助手 Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
+- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
+- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -629,6 +632,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks) **`MD`**
 	- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
 	- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
+	- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - **思维导图**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **歌词编辑**
@@ -1137,6 +1141,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full` `💴`**
    	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
    	- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
+   	- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - **屏幕显示**
    	- [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux) **`MD`**
    	- [Blue Light Filter](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) **`Full`**
