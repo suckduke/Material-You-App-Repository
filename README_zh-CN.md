@@ -277,8 +277,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
-- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
@@ -292,6 +290,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [点击助手 Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
+- [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
+- [FBoard](https://t.me/fredboard/42) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -437,7 +437,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 	- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
 	- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
-	- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
+	- [Mastodon Redirect](https://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - **Lemmy 第三方**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
@@ -906,6 +906,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote) **`Full` `Multi`**
 	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
 	- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
+	- [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - **其他**
 	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
 	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
@@ -1234,6 +1235,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet` `FOSS`**
    	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`** 
    	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet` `FOSS`**
+   	- [FBoard](https://t.me/fredboard/42) **`Full`**
 - **计算器**
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**    
    	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**    
