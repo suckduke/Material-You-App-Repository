@@ -353,9 +353,9 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - **Nothing OS**
 - **Octavi OS**
 
-已在它们的系统应用中引用Material Design 3设计或Monet取色。
+已在它们的系统应用中引用 Material Design 3 设计或 Monet 取色。
 
-部分类原生的系统应用也基于Material Design 3设计，但实际上它们是谷歌自己的应用，并非完全的三方应用，故不考虑收录。
+部分类原生的系统应用也基于 Material Design 3 设计，但实际上它们是谷歌自己的应用，并非完全的三方应用，故不考虑收录。
 
 下面将提供一部分提取应用的链接，应用不全，欢迎大家帮助我补充链接XD
 - **Moto MYUI**
@@ -382,7 +382,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [拨号](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
 	- [联系人](https://kawaii.lanzoui.com/b01eahvih) **`MD-` `Monet`**
     
-注：crDroid、Octavi OS的其他系统应用之后会考虑上传（如果它们在其他手机上可用）。
+注：crDroid、Octavi OS 的其他系统应用之后会考虑上传（如果它们在其他手机上可用）。
 
 ---
 ### [👥聊天社交](#目录)
