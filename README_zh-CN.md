@@ -280,7 +280,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
-- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
+- [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
 - [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
 - [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
@@ -412,7 +412,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Instagram 第三方**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet `MOD`**
-	- [Honista](https://t.me/Honistagram) **`Monet `MOD`**
+	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 	- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
 - **Reddit 第三方**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
