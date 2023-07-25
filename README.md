@@ -266,7 +266,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
-- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
+- [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
 - [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
 - [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
@@ -400,7 +400,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Instagram Clients**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet `MOD`**
-	- [Honista](https://t.me/Honistagram) **`Monet `MOD`**
+	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
 	- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
