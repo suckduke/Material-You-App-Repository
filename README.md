@@ -263,8 +263,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
-- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
@@ -278,6 +276,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
+- [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
+- [FBoard](https://t.me/fredboard/42) **`Full`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -425,7 +425,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Focus for Mastodon](https://play.google.com/store/apps/details?id=allen.town.focus.mastodon) **`Full` `💴`**
 	- [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) **`MD-` `Monet`**
 	- [Dimett](https://github.com/MateriiApps/Dimett) **`TODO` `FOSS`**
-	- [Mastodon Redirect](thttps://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
+	- [Mastodon Redirect](https://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - **Lemmy Clients**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
 	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
@@ -894,6 +894,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [openHAB](https://github.com/openhab/openhab-android) / [LogViewer for openHAB-App](https://github.com/cyb3rko/logviewer-for-openhab-app) **`Full` `FOSS`**
    	- [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte) **`MD-` `💴`**
    	- [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010) **`MD-` `💴`**
+   	- [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - **Others**
    	- [Lis10](https://play.google.com/store/apps/details?id=com.urbandroid.lis10) **`Full`**
    	- [SpaceHub](https://github.com/LPirro/SpaceHub) **`TODO` `FOSS`**
@@ -1222,6 +1223,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) **`Monet` `FOSS`**
    	- [Remote Numpad](https://github.com/theolizard/remote-numpad) **`MD-` `Monet` `FOSS`** 
    	- [KrypeEY](https://github.com/amnesica/KryptEY) **`Monet` `FOSS`**
+   	- [FBoard](https://t.me/fredboard/42) **`Full`**
 - **Calculator**   
    	- [yetCalc](https://github.com/Yet-Zio/yetCalc) **`MD-` `Monet` `Multi` `FOSS`**    
    	- [Unitto](https://github.com/sadellie/unitto) **`Full` `Multi` `FOSS`**    
