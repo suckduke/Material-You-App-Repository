@@ -57,7 +57,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
 	- **`💴`** - App that needs to pay to activate some features.
 	- **`👻`** - App that stops updating for some reasons.
-	- **`⚠️`** - Apps that violate the open source licenses, may infringe on the rights and interests of other developers, maliciously abuse system permissions, or have other improper behaviors. Evidence will be marked behind.
+	- **`⚠️`** - App that violates the open source licenses, may infringes on the rights and interests of other developers, maliciously abuses system permissions, or has other improper behaviors. Evidence will be marked behind.
 
 ### 💖Thanks to
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
