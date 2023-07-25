@@ -263,7 +263,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
 - [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
@@ -278,6 +277,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - [FBoard](https://t.me/fredboard/42) **`Full`**
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1319,6 +1319,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [RS Tool](https://1drv.ms/u/s!Atk49Scq_BtYhHsoHNUSMxfYyauF?e=AeEWov) **`MD`**
    	- [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
 - **AI**    
+   	- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
    	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**    
    	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
    	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**    
