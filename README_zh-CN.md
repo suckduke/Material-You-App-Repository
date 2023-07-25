@@ -277,7 +277,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes) **`Full` `Multi`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
 - [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
 - [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
@@ -292,6 +291,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - [FBoard](https://t.me/fredboard/42) **`Full`**
+- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1331,6 +1331,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [RS Tool](https://misaka13766.lanzoup.com/idNa20xo6x6d) (密码ea85) **`MD`**
    	- [WLED Native](https://github.com/Moustachauve/WLED-Native-Android) **`MD` `Multi` `FOSS`**
 - **AI**
+   	- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
    	- [Colors AI](https://github.com/tsinis/colors_ai) **`Full` `FOSS`**    
    	- [CommuniqAI](https://play.google.com/store/apps/details?id=dev.mtc.ga) **`MD-`**    
    	- [BotForge](https://github.com/L4TTiCe/BotForge) **`Full` `FOSS`**    
