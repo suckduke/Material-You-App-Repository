@@ -263,21 +263,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
-- [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
 - [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
 - [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
 - [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
 - [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
-- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
+- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `⚠️`**
 - [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - [FBoard](https://t.me/fredboard/42) **`Full`**
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
+- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
+- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -514,7 +514,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CloudStream](https://github.com/recloudstream/cloudstream) **`MD-` `Monet` `Multi` `FOSS`**
 	- [FongMi TV](https://github.com/FongMi/TV) **`MD` `FOSS`**
 	- [Onstream](https://onstream.to/) **`MD-`**
-	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS` `⚠️`** ([Evidence](https://t.me/misakamaterialyou/461))
+	- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `⚠️`** ([Evidence](https://t.me/misakamaterialyou/461))
 - **Offline Videos Services**
 	- [VLC Mod](https://t.me/waifupx_official/233) **`Full` `Multi` `MOD`** 
 	- [VideoYouX](https://github.com/Clearpole/VideoYouX) **`Full` `Multi` `FOSS`**
@@ -949,6 +949,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
    	- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
+   	- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
    	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
@@ -1334,6 +1335,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
    	- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
    	- [VIC](https://github.com/iamlooper/VIC) **`Full`**
+   	- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - **Auto Clicker**    
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
    	- [Auto Tasker](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
