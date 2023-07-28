@@ -277,21 +277,21 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
-- [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
 - [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
 - [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
 - [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
 - [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
-- [521影视](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `FOSS`**
+- [521影视](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `⚠️`**
 - [点击助手 Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
 - [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
 - [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
 - [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
 - [FBoard](https://t.me/fredboard/42) **`Full`**
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
+- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
+- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -961,6 +961,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Wallcanic Walls](https://play.google.com/store/apps/details?id=com.paradox.wallcanic) **`Full`**
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
    	- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
+   	- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - **图标包**
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
    	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
@@ -1346,6 +1347,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai) **`MD`**
    	- [Material GPT](https://github.com/DylanAkp/MaterialGPT) **`MD` `FOSS`**
    	- [VIC](https://github.com/iamlooper/VIC) **`Full`**
+   	- [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - **自动任务**
    	- [TapTap](https://github.com/KieronQuinn/TapTap) **`Full` `FOSS`**    
    	- [自动任务](https://www.coolapk.com/apk/top.xjunz.tasker) **`MD` `💴`**    
