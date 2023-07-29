@@ -277,7 +277,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
-- [Syncthing](https://github.com/syncthing/syncthing-android) **´Full´ ´FOSS´**
+- [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1050,7 +1050,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD` `FOSS`**
    	- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
    	- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
-   	- [Syncthing](https://github.com/syncthing/syncthing-android) **´Full´ ´FOSS´**
+   	- [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - **Hardware Infomation**
    	- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) **`Full` `💴`**
    	- [Forefrontinfo](https://www.coolapk.com/apk/net.imknown.android.forefrontinfo) **`MD-` `Monet`**
