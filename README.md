@@ -263,8 +263,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
-- [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
 - [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
@@ -278,6 +276,8 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
+- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1303,6 +1303,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
    	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
+   	- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - **Sender**      
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**    
@@ -1367,6 +1368,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
+   	- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
