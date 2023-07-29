@@ -292,7 +292,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
-- [Syncthing](https://github.com/syncthing/syncthing-android) **´Full´ ´FOSS´**
+- [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1063,7 +1063,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [PickYou](https://github.com/XayahSuSuSu/AndroidModule-PickYou) **`MD` `FOSS`**
    	- [RSAF](https://github.com/chenxiaolong/RSAF) **`MD-` `Monet` `FOSS`**
    	- [FileManager](https://github.com/Ruan625Br/FileManagerSphere) **`Full` `FOSS`**
-   	- [Syncthing](https://github.com/syncthing/syncthing-android) **´Full´ ´FOSS´**
+   	- [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - **硬件信息**
    	- [DevCheck](https://play.google.com/store/apps/details?id=flar2.devcheck) **`Full` `💴`**
    	- [底层探测器](https://www.coolapk.com/apk/net.imknown.android.forefrontinfo) **`MD-` `Monet`**
