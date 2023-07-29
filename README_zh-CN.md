@@ -100,7 +100,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **Instagram 第三方**
 	- **Reddit 第三方**
 	- **Discord 第三方**
-	- **Twitter 第三方**
+	- **Twitter (𝕏) 第三方**
 	- **Mastodon 及其第三方**
 	- **Lemmy 第三方**
 	- **其他去中心化社交平台**
@@ -424,7 +424,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord 第三方**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-- **Twitter 第三方**
+- **Twitter (𝕏) 第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
