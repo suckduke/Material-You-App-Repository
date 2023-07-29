@@ -277,9 +277,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
-- [App Info Manager](https://play.google.com/store/apps/details?id=com.bluckapps.appinfomanager) **`MD-`**
-- [Appteka](https://t.me/waifupx_official/257) **`Full` `MOD`**
 - [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
 - [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
 - [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
@@ -293,6 +290,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
+- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1316,6 +1315,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) **`Full` `FOSS`**
    	- [Password Manager](https://github.com/OffRange/PasswordManager) **`Full` `FOSS`**
    	- [IYPS](https://github.com/the-weird-aquarian/IYPS) **`MD` `FOSS`**
+   	- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - **文件互传**
    	- [Warpinator](https://github.com/slowscript/warpinator-android) **`MD-` `Monet` `FOSS`**    
    	- [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) **`Full` `FOSS`**       
@@ -1380,6 +1380,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
+   	- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - **测量工具**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
