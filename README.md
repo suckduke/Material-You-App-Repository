@@ -88,7 +88,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Instagram Clients**
 	- **Reddit Clients**
 	- **Discord Clients**
-	- **Twitter Clients**
+	- **Twitter (𝕏) Clients**
 	- **Mastodon and its Clients**
 	- **Lemmy Clients**
 	- **Other DAO Social Applications**
@@ -412,7 +412,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord Clients**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-- **Twitter Clients**
+- **Twitter (𝕏) Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
 	- [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter) **`Full` `💴`**
