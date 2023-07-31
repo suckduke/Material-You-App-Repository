@@ -388,20 +388,20 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
-	- [Nekogram](https://nekogram.app/) **`Monet` `FOSS`**
-	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `FOSS`**
-	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `FOSS`**
-	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `FOSS`**
-	- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `FOSS`**
+	- [Nekogram](https://nekogram.app/) **`Monet` `Multi` `FOSS`**
+	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `Multi` `FOSS`**
+	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `Multi` `FOSS`**
+	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `Multi` `FOSS`**
+	- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `Multi` `FOSS`**
 - **Encrypted Chatting**
 	- [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Instagram Clients**
-	- [Instander](https://thedise.me/instander/repo/) **`Monet `MOD`**
+	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
-	- [Instasmash](https://t.me/instasmashrepo) **`Monet `MOD`**
+	- [Instasmash](https://t.me/instasmashrepo) **`Monet` `MOD`**
 - **Reddit Clients**
 	- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi` `👻`**
 	- [Karma for Reddit](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) **`Full` `MD-` `Monet`** 
@@ -654,7 +654,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [OneShot](https://github.com/ptrLx/OneShot) **`Full` `FOSS`**
 	- [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer) **`MD` `💴`**
 - **Illustrations**
-	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full` `FOSS`**
+	- [PixEz](https://github.com/Notsfsssf/pixez-flutter) **`Full` `Multi` `FOSS`**
 	- [PixivYou](https://t.me/anubis_recommended/127) **`Full`** 
 	- [SauceNao](https://github.com/LuK1337/SauceNAO) **`Full` `FOSS`**
 	- [Boorusphere](https://github.com/nullxception/boorusphere) **`Full` `FOSS`**
@@ -729,7 +729,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD` `FOSS`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 	- [Kuro Reader](https://play.google.com/store/apps/details?id=br.com.kurotoshiro.leitor_manga) **`Full` `Multi` `💴`**
-	- [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `FOSS`**
+	- [JHentai](https://github.com/jiangtian616/JHenTai) **`MD` `Multi` `FOSS`**
 - **Audio Books**
 	- [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user) **`Full` `Multi` `💴`**
 	- [Voice](https://github.com/PaulWoitaschek/Voice) **`Full` `Multi` `FOSS`**
@@ -1129,7 +1129,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Webackup](https://www.coolapk.com/apk/top.xjunz.webackup) **`MD-` `💴`**
 - **Battery Manager**
    	- [Battery Charge Limiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) **`MD-` `Monet` `FOSS`** 
-   	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full` `💴`**
+   	- [Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru) **`Full` `💴` `👻`**
    	- [Batt](https://gitlab.com/narektor/batt) **`MD-` `FOSS`**
    	- [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai) **`MD`**
    	- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
@@ -1148,7 +1148,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Cleaner**    
    	- [Qingzhuo](https://www.coolapk.com/apk/com.farplace.qingzhuo) **`MD-` `Monet` `Multi` `💴`**    
    	- [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) **`Full` `💴`**
-   	- [Cleaner Plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) **`Full`**
    	- [Cleaner](https://github.com/MaterialCleaner/MaterialCleaner) **`Full` `💴`**
    	- [Extripater](https://gitlab.com/divested-mobile/extirpater) **`Monet` `FOSS`**
 - **Logger/Feedback**   
@@ -1553,7 +1552,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**  
 - **Others**  
    	- [Jetisteam](https://github.com/iTaysonLab/jetisteam) **`Full` `FOSS`**
-   	- [J2ME Downloader](https://github.com/zf1234d/J2me-res-store) **`MD-` `FOSS`**    
+   	- [J2ME Downloader](https://github.com/zf1234d/J2me-res-store) **`MD-` `Monet` `FOSS`**    
    	- [MyCard YGO Helper](https://www.coolapk.com/apk/xjunz.tool.mycard) **`MD-`**    
    	- [GuessThatPokemon](https://github.com/NimaKhajehpour/GuessThatPokemon) **`MD-` `FOSS`**    
    	- [ArkToolBox Lite](https://github.com/JamXi233/ArkToolBox-Lite) **`MD` `FOSS`**    
