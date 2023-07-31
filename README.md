@@ -428,7 +428,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Mastodon Redirect](https://github.com/zacharee/MastodonRedirect) **`Full` `FOSS`**
 - **Lemmy Clients**
 	- [Jerboa for Lemmy](https://github.com/dessalines/jerboa) **`Full` `FOSS`**
-	- [Thunder](https://github.com/hjiangsu/thunder) **`MD` `FOSS`**
+	- [Thunder](https://github.com/hjiangsu/thunder) **`Full` `FOSS`**
 	- [Connect for Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect) **`Full`**
 	- [Lemming](https://github.com/janniskilian/Lemming) **`Full` `FOSS`**
 - **Other DAO Social Applications**
