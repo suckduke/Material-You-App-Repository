@@ -266,7 +266,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
-- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - [Lifeup](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup.free) **`MD-` `💴`**
@@ -1374,7 +1374,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
-   	- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+   	- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
