@@ -263,21 +263,21 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [ProtoHax](https://github.com/hax0r31337/ProtoHax) **`Full` `Multi`**
-- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
-- [WiFi Widget](https://github.com/w2sv/WiFi-Widget) **`MD-` `FOSS`**
-- [521 Movies](https://pan.quark.cn/s/acbd92736761#/list/share) **`MD-` `⚠️`**
-- [Touch Tool Pro](https://github.com/mr-bogey/TouchToolPro) **`Full`**
-- [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) **`MD-` `Multi` `💴`**
-- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
-- [Snow](https://github.com/sahej-dev/Snow) **`Full` `FOSS`**
-- [FBoard](https://t.me/fredboard/42) **`Full`**
-- [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) **`MD` `💴`**
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
+- [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
+- [Lifeup](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup.free) **`MD-` `💴`**
+- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
+- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
+- [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
+- [TempleBlock](https://github.com/AkaneTan/TempleBlock) **`Full` `FOSS`**
+- [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
+- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
+- [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
+- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -479,6 +479,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Musify](https://github.com/gokadzev/Musify) **`Full` `FOSS`**
 	- [Harmony Music](https://github.com/anandnet/Harmony-Music) **`MD-` `Monet` `FOSS`**
 	- [SpMp](https://github.com/toasterofbread/spmp) **`Full` `FOSS`**
+	- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - **Spotify Clients** 
 	- [Jetispot](https://github.com/iTaysonLab/jetispot) and a [fork](https://github.com/BobbyESP/Jetispot) **`Full` `FOSS`**
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
@@ -540,6 +541,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Symphonica](https://github.com/AkaneTan/Symphonica) **`Full` `FOSS`**
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
+	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - **Podcasts**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
@@ -549,6 +551,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Turtlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast) **`MD-` `Monet`**
 	- [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app) **`Full`**
 	- [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app) **`MD-` `Monet` `Multi` `💴`**
+	- [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - **Lives**
 	- [Hotlive](https://github.com/Jackiu1997/hot_live) **`Full` `FOSS`**
 	- [Purelive](https://github.com/Jackiu1997/pure_live/) **`Full` `Multi` `FOSS`**
@@ -621,6 +624,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Mint Task](https://github.com/boredcodebyk/minttask) **`Full` `FOSS`**
 	- [Fokus](https://github.com/icabetong/fokus-android) **`Full` `FOSS`**
 	- [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) **`Full` `FOSS`**
+	- [Lifeup](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup.free) **`MD-` `💴`**
 - **Mind Maps**
 	- [XMind](https://play.google.com/store/apps/details?id=net.xmind.doughnut) **`MD-` `💴`**
 - **Lyrics Editor**
@@ -950,6 +954,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Music Live Wallpaper](https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper) **`MD`**
    	- [WallpaperTunnel](https://github.com/Steve-Mr/WallpaperTunnel) **`MD`**
    	- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
+   	- [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - **Icon Pack** 
    	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
    	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
@@ -1022,6 +1027,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Net Monitor](https://github.com/hushenghao/NativeTools) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) **`MD` `💴`**
    	- [Discover Killer](https://github.com/KieronQuinn/DiscoverKiller) **`Full` `FOSS`**
+   	- [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - **GBoard Customization**
    	- [Rboard Theme Manager](https://github.com/DerTyp7214/RboardThemeManagerV3) **`Full` `FOSS`**    
    	- [Rboard Patcher](https://github.com/DerTyp7214/RboardPatcher) **`Full` `FOSS`**    
@@ -1191,6 +1197,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
    	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
    	- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD` `FOSS`**
+   	- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
@@ -1368,6 +1375,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
    	- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+   	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
    	- [Lightmeter](https://github.com/vodemn/m3_lightmeter) **`Full` `FOSS`**
@@ -1408,6 +1416,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose) **`Full`**    
    	- [Material 3](https://play.google.com/store/apps/details?id=com.boltuix.material3) **`MD`** **`Multi`**
    	- [WaveSlider](https://github.com/galaxygoldfish/waveslider) **`Full` `FOSS`**
+   	- [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - **Android Studio Tutorials**
    	- [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) **`Full` `FOSS`**    
    	- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) **`Full` `FOSS`**
@@ -1443,7 +1452,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [FoxMMM](https://github.com/Fox2Code/FoxMagiskModuleManager) **`Full` `FOSS`**    
    	- [Kernel Flasher](https://github.com/capntrips/KernelFlasher) **`Monet` `FOSS`**    
 - **Root Defender**    
-   	- [Ruru](https://github.com/byxiaorun/Ruru) / [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full` `FOSS`**    
+   	- [Ruru](https://github.com/byxiaorun/Ruru) / [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) **`Full` `FOSS`**
 - **Shizuku/Dhizuku/ADB**
    	- [Shizuku](https://github.com/RikkaApps/Shizuku) **`Full` `Multi` `FOSS`**    
    	- [Dhizuku](https://github.com/iamr0s/Dhizuku) **`Full` `Multi` `FOSS`**    
@@ -1546,6 +1555,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full` `FOSS`**    
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
+   	- [TempleBlock](https://github.com/AkaneTan/TempleBlock) **`Full` `FOSS`**
 - **Minecraft Tools**
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-` `FOSS`** 
    	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet` `FOSS`**
