@@ -280,7 +280,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [PixAI Art](https://play.google.com/store/apps/details?id=art.pixai.pixai) **`MD`**
 - [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
-- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - [人升](https://coolapk.com/apk/net.sarasarasa.lifeup) **`MD-` `💴`**
@@ -1386,7 +1386,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
-   	- [Singbox](https://sing-box.sagernet.org) **`Full` `FOSS`**
+   	- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - **测量工具**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
