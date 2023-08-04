@@ -12,16 +12,8 @@
 <p align="center">
  <img src="https://img.shields.io/github/stars/misaka-13766/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
 </p>
-<p align="center">
-  <a href="https://t.me/misakamaterialyou">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E9%A2%91%E9%81%93&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
-  </a>
-  <a href="https://t.me/misakamaterialyouchat">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
-  </a>
-</p>
 
-<p align="center"><b>创作不易<br>希望大家多多点点 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/><br>关注我的 Telegram 频道<br>同时宣传我的项目<br>让更多人知道并发现它<br>do，御坂恳求的说道！</b></p>
+<p align="center"><b>创作不易<br>希望大家多多点点 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/><br>do，御坂恳求的说道！</b></p>
 
 ## ⛩️序言
 ### ❓️什么是 Material Design 3？Material You 又是什么？
@@ -1593,11 +1585,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [@Simba](https://www.coolapk.com/u/912927)（开山鼻祖）
 	- [@MonetCarlos](https://www.coolapk.com/u/9021855)、[@人在且号无](https://www.coolapk.com/u/3743516)、[@JerryZhouYG](https://www.coolapk.com/u/3803468)、[@null喵](https://www.coolapk.com/u/25367133)、[@C碳化钨](https://www.coolapk.com/u/4091987)、[@WhiCCX5](https://www.coolapk.com/u/1788296)
 # 🫠告诉我你发现的 Material You 应用
-如果你发现了这个列表中没出现的 Material You 应用，欢迎你来告诉我！
-
-以下是可用的反馈方式：
-
-- 在我的 Github 仓库中[提 issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)；
-- 在我的 Telegram 群聊中提，直接跟我 PM 也是欢迎哒！
+如果你发现了这个列表中没出现的 Material You 应用，欢迎在我的 Github 仓库中[提 issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)或者直接 PR！
 # ⛩️附注
 - 标题图片来源：Pixiv ID [82225040](https://www.pixiv.net/artworks/82225040)，Author [@に](https://www.pixiv.net/users/1632590)
