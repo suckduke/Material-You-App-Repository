@@ -88,6 +88,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **拨号**
 	- **短信**
 	- **Telegram 第三方**
+        - **Matrix 客户端**
 	- **加密聊天软件**
 	- **Instagram 第三方**
 	- **Reddit 第三方**
@@ -397,10 +398,11 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `Multi` `FOSS`**
 	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `Multi` `FOSS`**
 	- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `Multi` `FOSS`**
+- **Matrix 客户端**
+     - [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
 - **加密聊天软件**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
-	- [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
 - **Instagram 第三方**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
