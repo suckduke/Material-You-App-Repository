@@ -76,6 +76,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Dialer**
 	- **SMS**
 	- **Telegram Clients**
+        - **Matrix Clients**
 	- **Encrypted Chatting**
 	- **Instagram Clients**
 	- **Reddit Clients**
@@ -385,8 +386,9 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Octogram](https://github.com/OctoGramApp/OctoGram) **`Monet` `Multi` `FOSS`**
 	- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) **`Monet` `Multi` `FOSS`**
 	- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `Multi` `FOSS`**
+- **Matrix Client**
+     - [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
 - **Encrypted Chatting**
-	- [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
