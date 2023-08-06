@@ -17,7 +17,7 @@
 
 ## ⛩️序言
 ### ❓️什么是 Material Design 3？Material You 又是什么？
-*以下内容部分来源于谷歌官方文档*
+*以下内容部分来源于[谷歌官方文档](https://m3.material.io/)*
 
 Material Design 3，又称质感设计3，是 Google 于2021年在 Google I/O 开发者大会上推出的最新开源 Android APP UI 设计规范。与前代 Material Design 2 对直角、阴影的强调不同， Material Design 3 更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的 Android 设备更加友好的适配，更重要的是，它带来了全新的取色机制 ——  Monet 取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定 APP 的强调色与主色调，让你的 Android 系统更富有个性。
 
