@@ -76,7 +76,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Dialer**
 	- **SMS**
 	- **Telegram Clients**
-        - **Matrix Clients**
+   - **Matrix Clients**
 	- **Encrypted Chatting**
 	- **Instagram Clients**
 	- **Reddit Clients**
