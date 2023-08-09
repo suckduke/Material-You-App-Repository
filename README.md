@@ -376,7 +376,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) **`MD` `FOSS`**
 - **SMS**
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full` `FOSS`**
-	- [WhatsApp Beta](https://play.google.com/apps/testing/com.whatsapp) **`MD-`**
+	- [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) **`MD-`**
 - **Telegram Clients**
 	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
