@@ -70,6 +70,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **`⚠️`**：违反开源协议、可能侵犯其他开发者权益、恶意滥用系统权限，或者存在其他不正当行为的应用，证据会在其后进行标注。
 
 ### 💖感谢
+- **御坂13766号**，本仓库的创建者。
 - **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的 Material You APP 收集项目，它为我的收集工作提供了莫大的帮助。  
 - 列表建设初期提供素材、线索以及为我提供建议的大佬们。
 - [F-Droid](https://f-droid.org)，F-Droid 里收录了很多基于最新设计的开源 APP，为本列表中的应用来源提供不少线索。
