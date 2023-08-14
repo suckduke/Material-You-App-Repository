@@ -1381,7 +1381,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
-   	- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
+   	- [sing-box](https://github.com/SagerNet/sing-box/releases) **`Full` `FOSS`**
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - **测量工具**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
