@@ -737,7 +737,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🌦️Daily Life](#applist-menu)
 - **Bookkeeping**
 	- [Xiaoxing Bookkeeping](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD` `💴`**
-	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
+	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi` `FOSS`**
 	- [Buckwheat](https://github.com/danilkinkin/buckwheat) **`Full` `Multi` `FOSS`**
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full` `FOSS`**
 	- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) **`MD-` `Monet`**
