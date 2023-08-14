@@ -1369,7 +1369,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
-   	- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
+   	- [sing-box](https://github.com/SagerNet/sing-box/releases) **`Full` `FOSS`**
    	- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - **Measuring**
    	- [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel) **`MD`** 
