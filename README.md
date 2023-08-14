@@ -52,6 +52,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`⚠️`** - App that violates the open source licenses, may infringes on the rights and interests of other developers, maliciously abuses system permissions, or has other improper behaviors. Evidence will be marked behind.
 
 ### 💖Thanks to
+- **Misaka 13766**, the creator of this repository
 - **SPECIAL THANKS TO** [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list/), the most popular material app collecting project, which helps me a lot. [Click here](https://github.com/nyas1/Material-You-app-list) to join Telegram Channel.
 - Friends who provide many materials for me and make suggestions to me to make this repository more pretty.
 - F-Droid, which gives me a convenient access to FOSS and Material You apps.
