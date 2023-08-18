@@ -1219,6 +1219,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
+   	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
 - **Keyboard**    
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**    
