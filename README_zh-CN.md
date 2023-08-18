@@ -70,7 +70,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **`⚠️`**：违反开源协议、可能侵犯其他开发者权益、恶意滥用系统权限，或者存在其他不正当行为的应用，证据会在其后进行标注。
 
 ### 💖感谢
-- **御坂13766号**，本项目的创建者。
+- **御坂 13766 号**，本项目的创建者。
 - **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的 Material You APP 收集项目，它为我的收集工作提供了莫大的帮助。  
 - 列表建设初期提供素材、线索以及为我提供建议的大佬们。
 - [F-Droid](https://f-droid.org)，F-Droid 里收录了很多基于最新设计的开源 APP，为本列表中的应用来源提供不少线索。
@@ -248,7 +248,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **其他**
 - **[🪄 Monet取色修改模块](#monet取色修改模块)**
 ## 🏆小编推荐
-*下面是我认为最赞的20个Material You应用，从设计、功能上都很好的满足了我对Material You的想象w（排名不分先后）*
+*下面是我认为最赞的20个 Material You 应用，从设计、功能上都很好的满足了我对 Material You 的想象w（排名不分先后）*
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 - [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) **`Full` `Multi`**
 - [几何天气](https://github.com/WangDaYeeeeee/GeometricWeather) **`Full` `Multi`**
@@ -289,7 +289,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
-作为Material Design 3的缔造者，谷歌几乎所有应用都在向MD3设计改变，这其中不乏优秀的产品。以下列出目前适配Material Design 3的谷歌官方应用。
+作为 Material Design 3 的缔造者，谷歌几乎所有应用都在向MD3设计改变，这其中不乏优秀的产品。以下列出目前适配 Material Design 3 的谷歌官方应用。
 - [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock) **`Full` `Multi`**
 - [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) **`Full` `Multi`**
 - [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) **`Full` `Multi`**
