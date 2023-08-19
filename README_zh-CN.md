@@ -292,7 +292,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
-- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
@@ -1411,7 +1411,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full` `FOSS`**
    	- [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
    	- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
-   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 ---
 ## [🔧开发工具](#目录)
 - **服务器**
