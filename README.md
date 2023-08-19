@@ -10,7 +10,7 @@
   <img src="https://i.ibb.co/YTXvX49/Wallpaper3.png">
 </p>
 <p align="center">
- <img src="https://img.shields.io/github/stars/misaka-13766/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
+ <img src="https://img.shields.io/github/stars/CHNJohnHK/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
 </p>
 
 <p align="center"><b>Welcome to  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/>  the repo to support my work if you like it!</b></p>
