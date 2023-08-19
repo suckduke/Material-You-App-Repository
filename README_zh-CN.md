@@ -1597,6 +1597,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [@Simba](https://www.coolapk.com/u/912927)（开山鼻祖）
 	- [@MonetCarlos](https://www.coolapk.com/u/9021855)、[@人在且号无](https://www.coolapk.com/u/3743516)、[@JerryZhouYG](https://www.coolapk.com/u/3803468)、[@null喵](https://www.coolapk.com/u/25367133)、[@C碳化钨](https://www.coolapk.com/u/4091987)、[@WhiCCX5](https://www.coolapk.com/u/1788296)
 # 🫠告诉我你发现的 Material You 应用
-如果你发现了这个列表中没出现的 Material You 应用，欢迎在我的 Github 仓库中[提 issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)或者直接 PR！
+如果你发现了这个列表中没出现的 Material You 应用，欢迎在我的 Github 仓库中[提 issue](https://github.com/CHNJohnHK/Material-You-App-Repository/issues)或者直接 PR！
 # ⛩️附注
 - 标题图片来源：Pixiv ID [82225040](https://www.pixiv.net/artworks/82225040)，Author [@に](https://www.pixiv.net/users/1632590)
