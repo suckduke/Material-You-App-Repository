@@ -1390,6 +1390,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full` `FOSS`**
    	- [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
    	- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
+   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
