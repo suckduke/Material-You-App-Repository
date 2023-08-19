@@ -271,6 +271,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
+- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
@@ -279,7 +280,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
-- [TempleBlock](https://github.com/AkaneTan/TempleBlock) **`Full` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
@@ -1564,7 +1564,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Antimine](https://github.com/lucasnlm/antimine-android) **`Full` `FOSS`**    
    	- [MathQ](https://play.google.com/store/apps/details?id=com.anafthdev.mathq) **`Full`**
    	- [Cavedroid](https://play.google.com/store/apps/details?id=com.cyb3rko.cavedroid) **`MD-`**
-   	- [TempleBlock](https://github.com/AkaneTan/TempleBlock) **`Full` `FOSS`**
 - **Minecraft 工具**
    	- [Boat_H2O2 Pro](https://github.com/NaCln4c1/Boat_H2O2) **`MD-` `FOSS`** 
    	- [Cuberite](https://github.com/cuberite/android) **`MD-` `Monet` `FOSS`**
