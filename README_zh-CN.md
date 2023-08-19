@@ -1402,6 +1402,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full` `FOSS`**
    	- [知己](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
    	- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
+   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 ---
 ## [🔧开发工具](#目录)
 - **服务器**
