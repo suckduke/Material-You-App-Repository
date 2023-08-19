@@ -279,7 +279,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
-- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
@@ -1400,7 +1400,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Life Chest](https://github.com/theskyblockman/life-chest) **`Full` `FOSS`**
    	- [Encryptor](https://play.google.com/store/apps/details?id=com.yangdai.encryptor) **`Full` `Multi` `FOSS`**
    	- [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter) **`Full`**
-   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+   	- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 ---
 ### [🔧Developer Tools](#applist-menu)
 - **Server**    
