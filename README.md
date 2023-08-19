@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+- [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -402,6 +402,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
+      - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - **Instagram Clients**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
