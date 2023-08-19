@@ -271,7 +271,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
@@ -286,6 +285,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
