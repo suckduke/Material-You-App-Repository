@@ -12,6 +12,14 @@
 <p align="center">
  <img src="https://img.shields.io/github/stars/CHNJohnHK/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
 </p>
+<p align="center">
+  <a href="https://t.me/misakamaterialyou">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E9%A2%91%E9%81%93&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
+  </a>
+  <a href="https://t.me/misakamaterialyouchat">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
+  </a>
+</p>
 
 <p align="center"><b>创作不易，希望大家多多点点 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/><br>do，御坂恳求的说道！</b></p>
 
