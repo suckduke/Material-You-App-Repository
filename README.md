@@ -278,7 +278,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
-- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱Applist
@@ -1229,7 +1229,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
-   	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+   	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - **Keyboard**    
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**    
