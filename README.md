@@ -402,7 +402,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
-      - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
+    - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - **Instagram Clients**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
