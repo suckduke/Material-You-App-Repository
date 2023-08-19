@@ -77,7 +77,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **Dialer**
 	- **SMS**
 	- **Telegram Clients**
-   - **Matrix Clients**
+    - **Matrix Clients**
 	- **Encrypted Chatting**
 	- **Instagram Clients**
 	- **Reddit Clients**
@@ -257,7 +257,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
@@ -272,6 +271,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+- [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
