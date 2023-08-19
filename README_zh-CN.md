@@ -10,7 +10,7 @@
   <img src="https://i.ibb.co/3CYKN00/Wallpaper4.png">
 </p>
 <p align="center">
- <img src="https://img.shields.io/github/stars/misaka-13766/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
+ <img src="https://img.shields.io/github/stars/CHNJohnHK/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
 </p>
 
 <p align="center"><b>创作不易，希望大家多多点点 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20"/><br>do，御坂恳求的说道！</b></p>
