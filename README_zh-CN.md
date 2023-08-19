@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
 - [Syncthing](https://github.com/syncthing/syncthing-android) **`Full` `FOSS`**
 - [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
+- [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -409,10 +409,11 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Nullgram](https://github.com/qwq233/Nullgram) **`Monet` `Multi` `FOSS`**
 - **Matrix 客户端**
      - [FluffyChat](https://github.com/krille-chan/fluffychat) **`Full` `Multi` `FOSS`**
-- **加密聊天软件**
+- **加密通讯软件**
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
+    - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - **Instagram 第三方**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
