@@ -291,7 +291,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
-- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`MD` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 ## 📱应用列表
@@ -1240,7 +1240,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
    	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
-   	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`MD` `FOSS`**
+   	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - **输入法**
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
    	- [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) **`Monet` `FOSS`**
