@@ -449,7 +449,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [FogIsland](https://github.com/123Duo3/XDNMB) **`TODO` `FOSS`**
 	- [Stack for Stack Overflow](https://play.google.com/store/apps/details?id=me.tylerbwong.stack) **`Full`**
 	- [HACG](https://github.com/shizheng233/HACG) **`Full` `FOSS`**
-	- [xland](https://github.com/re-ovo/xland) **`👻` `FOSS`**
+	- [xland](https://github.com/re-ovo/xland) **`FOSS` `👻`**
 	- [Taiga Mobile](https://github.com/EugeneTheDev/TaigaMobile) **`Full` `FOSS`**
 	- [Hackerfeed](https://github.com/shreydan/hackerfeed) **`MD` `FOSS`**
 	- [CoolbbsYou](https://github.com/WaitFme/CoolbbsYou) **`TODO`**
