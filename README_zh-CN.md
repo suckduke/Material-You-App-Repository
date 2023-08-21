@@ -732,10 +732,11 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [每日早报](https://pann.lanhuang.top/down.php/a3bc25e7e539af77463acea4411c26a1.apk) **`Full`**
 	- [MeRead](https://github.com/gvenusleo/meread) **`Full` `FOSS`**
 	- [Reader](https://github.com/msasikanth/reader) **`MD-` `FOSS`**
-	- [Tension](https://github.com/re-ovo/Tension) **`👻` `FOSS`**
+	- [Tension](https://github.com/re-ovo/Tension) **`FOSS` `👻`**
 	- [Global News](https://github.com/v1tzor/GlobalNewsApp) **`MD` `FOSS`**
    	- [Neo Feed](https://github.com/NeoApplications/Neo-Feed) **`Full` `FOSS`**
-   	- [Dirol Reader](https://github.com/therxmv/Dirol-Reader) **`MD` `FOSS`**  
+   	- [Dirol Reader](https://github.com/therxmv/Dirol-Reader) **`MD` `FOSS`**
+   	- [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - **漫画**
 	- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) / [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) / [TachiyomiSY](https://github.com/Hero-Over/TachiyomiSY) / [Syncyomi](https://github.com/SyncYomi/SyncYomi) **`Full` `Multi` `FOSS`**
 	- [Kotatsu](https://github.com/KotatsuApp/Kotatsu) **`Full` `Multi` `FOSS`**
