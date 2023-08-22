@@ -501,7 +501,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
 - **网易云音乐第三方**
 	- [音悦](https://github.com/GuihongWang/MusicYou) **`Full` `Multi` `FOSS`**
-	- [RainMusic](https://github.com/re-ovo/RainMusic) **`👻` `FOSS`**
+	- [RainMusic](https://github.com/re-ovo/RainMusic) **`FOSS` `👻`**
 - **Bilibili 第三方**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
