@@ -490,7 +490,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Spotube](https://github.com/KRTirtho/spotube) **`MD` `FOSS`**
 - **Netease Cloud Music Clients** 
 	- [Music You](https://github.com/GuihongWang/MusicYou) **`Full` `Multi` `FOSS`**
-	- [RainMusic](https://github.com/re-ovo/RainMusic) **`👻` `FOSS`**
+	- [RainMusic](https://github.com/re-ovo/RainMusic) **`FOSS` `👻`**
 - **Bilibili Clients**
 	- [Bili You](https://github.com/lucinhu/bili_you) **`Full` `FOSS`**
 	- [Bilimiao](https://github.com/10miaomiao/bilimiao2) **`Monet` `Multi` `FOSS`**
