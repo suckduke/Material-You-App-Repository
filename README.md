@@ -1213,6 +1213,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
    	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
+   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
 - **App Downloader**   
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**    
@@ -1229,7 +1230,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
-   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
    	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - **Keyboard**    
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
