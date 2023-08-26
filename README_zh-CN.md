@@ -1223,7 +1223,8 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [忻视down](https://github.com/Yos-X/YBVD_Release) **`Full`**    
    	- [YTDLnis](https://github.com/deniscerri/ytdlnis) **`Full` `Multi` `FOSS`**    
    	- [Spowlo](https://github.com/BobbyESP/Spowlo) **`Full` `FOSS`**
-   	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**   
+   	- [Tweeload](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) **`MD-` `Monet` `💴`**
+   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
 - **应用下载器**
    	- [Revanced Manager](https://github.com/revanced/revanced-manager) **`Full` `FOSS`**    
    	- [AliucordRN](https://github.com/Aliucord/AliucordRN) **`Full` `FOSS`**    
@@ -1240,7 +1241,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Nextcloud Talk](https://github.com/nextcloud/talk-android) **`MD` `FOSS`**
    	- [Nextcloud Tablets](https://github.com/stefan-niedermann/nextcloud-tables) **`MD`**
    	- [Pho](https://github.com/fregie/pho) **`MD` `FOSS`**
-   	- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) **`MD` `FOSS`**
    	- [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - **输入法**
    	- [Simple Keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) **`Full` `FOSS`**    
