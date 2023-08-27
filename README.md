@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [sing-box](https://sing-box.sagernet.org) **`Full` `FOSS`**
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - [Lifeup](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup.free) **`MD-` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
+- [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -497,6 +497,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [bi](https://github.com/storytellerF/bi) **`Full` `Multi` `FOSS`**
 	- [Bilibili Mod](https://t.me/misakamaterialyou/428) **`Monet` `MOD`**
 	- [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) **`TODO`**
+      - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - **Streaming Server Clients**
 	- [SubTune](https://github.com/TaylorKunZhang/SubTune) **`MD` `FOSS`**
 	- [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) **`Full` `FOSS`**
