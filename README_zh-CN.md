@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [KeePassDX](https://github.com/Kunzisoft/KeePassDX) **`Full` `💴`**
 - [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - [人升](https://coolapk.com/apk/net.sarasarasa.lifeup) **`MD-` `💴`**
 - [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
+- [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -559,6 +559,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Howl](https://github.com/Iamlooker/Howl) **`MD` `FOSS` `👻`**
 	- [MusicomposeV2](https://github.com/kafri8889/Musicompose-V2) **`Full` `FOSS`**
 	- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
+       - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - **播客/电台**
 	- [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi` `💴`**
 	- [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) **`Monet` `Multi` `💴`**
