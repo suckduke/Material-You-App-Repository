@@ -37,7 +37,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 
 国内开发者大多喜欢自造轮子，不过也有不少开发者喜爱 Material You，他们主要活跃于酷安、少数派等平台。同时，一些 Magisk/KernelSU 模块开发者热衷于 Monet 取色，他们为第三方未支持取色的应用开发了取色模块，并研究出了一套适配规则，具体可在酷安搜索 “All Monet”。
 
-然而，除了 Google 、 Meta (WhatsApp) 和 Discord 以外，目前并未发现有大厂青睐 Material You 并将其用于 APP 的开发，国内国外都算上。
+然而，除了 Google 和 Meta (WhatsApp) 以外，目前并未发现有大厂青睐 Material You 并将其用于 APP 的开发，国内国外都算上。
 
 ### ❓️为什么会有这个列表？
 - 首先当然是想让更多人了解 Material You，感受 Material You 的奇妙魔法XD
@@ -293,7 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
-- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`Full`**
+- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Monet` `Multi`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -427,7 +427,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord 客户端**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-    - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`Full`**
+    - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Monet` `Multi`**
 - **Twitter (𝕏) 第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
