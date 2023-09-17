@@ -37,7 +37,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 
 国内开发者大多喜欢自造轮子，不过也有不少开发者喜爱 Material You，他们主要活跃于酷安、少数派等平台。同时，一些 Magisk/KernelSU 模块开发者热衷于 Monet 取色，他们为第三方未支持取色的应用开发了取色模块，并研究出了一套适配规则，具体可在酷安搜索 “All Monet”。
 
-然而，除了 Google 和 Meta (WhatsApp) 以外，目前并未发现有大厂青睐 Material You 并将其用于 APP 的开发，国内国外都算上。
+然而，除了 Google 、 Meta (WhatsApp) 和 Discord 以外，目前并未发现有大厂青睐 Material You 并将其用于 APP 的开发，国内国外都算上。
 
 ### ❓️为什么会有这个列表？
 - 首先当然是想让更多人了解 Material You，感受 Material You 的奇妙魔法XD
@@ -101,7 +101,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **加密通讯软件**
 	- **Instagram 第三方**
 	- **Reddit 第三方**
-	- **Discord 第三方**
+	- **Discord 客户端**
 	- **Twitter (𝕏) 第三方**
 	- **Mastodon 及其第三方**
 	- **Lemmy 第三方**
@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Kuper](https://github.com/jahirfiquitiva/Kuper) **`MD-` `Monet` `FOSS`**
 - [人升](https://coolapk.com/apk/net.sarasarasa.lifeup) **`MD-` `💴`**
 - [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
+- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`Full`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -413,7 +413,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Signal](https://github.com/signalapp/Signal-Android) / [Signal You](https://github.com/nekorubu/Signal-You) **`MD` `FOSS`**
 	- [Molly](https://github.com/mollyim/mollyim-android) **`MD` `FOSS`**
 	- [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) **`TODO` `FOSS`**
-    - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - **Instagram 第三方**
 	- [Instander](https://thedise.me/instander/repo/) **`Monet` `MOD`**
 	- [Honista](https://t.me/Honistagram) **`Monet` `MOD`**
@@ -426,8 +425,9 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Pinapple](https://github.com/galaxygoldfish/pineapple) **`TODO` `FOSS`**
 	- [FairBird for Reddit](https://play.google.com/store/apps/details?id=com.niven.reddit) **`Full`**
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
-- **Discord 第三方**
+- **Discord 客户端**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
+    - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`Full`**
 - **Twitter (𝕏) 第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
@@ -453,6 +453,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Fedilab](https://codeberg.org/tom79/Fedilab) **`MD` `FOSS`**
 	- [Hejtter](https://github.com/mateusz-bak/hejtter) **`MD` `FOSS`**
 	- [Dimett](https://github.com/MateriiApps/Dimett) **`Full` `FOSS`**
+    - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
 - **论坛**
 	- [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi` `FOSS`**
 	- [v2compose](https://github.com/cooaer/v2compose) **`Full` `FOSS`**
