@@ -399,7 +399,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Simple SMS Messenger](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) **`Full` `FOSS`**
 	- [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) **`MD-`**
 - **Telegram 第三方**
-	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`MD` `Multi`**
+	- [MDgram](https://github.com/MDGramYou/MDGramYou) **`Full` `Multi`**
 	- [exteraGram](https://github.com/exteraSquad/exteraGram) **`MD-` `Multi` `FOSS`**
 	- [Lilgram](https://github.com/lilchill666/LilGram) **`Full` `Multi` `FOSS`**
 	- [Nagram](https://github.com/NextAlone/Nagram) **`Monet` `Multi` `FOSS`**
