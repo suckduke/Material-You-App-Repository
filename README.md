@@ -280,7 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
-- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Monet` `Multi`**
+- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -417,7 +417,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord Clients**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-     - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Monet` `Multi`**
+     - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 - **Twitter (𝕏) Clients**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
