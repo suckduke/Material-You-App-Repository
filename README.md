@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Lifeup](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup.free) **`MD-` `💴`**
 - [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
+- [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1415,6 +1415,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**  
    	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-` `FOSS`**
    	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
+   	- [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - **Componets & Demo**    
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full` `FOSS`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full` `FOSS`**    
