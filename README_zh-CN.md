@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [人升](https://coolapk.com/apk/net.sarasarasa.lifeup) **`MD-` `💴`**
 - [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
+- [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1423,9 +1423,10 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full` `FOSS`**    
    	- [DroidHole](https://github.com/JGeek00/droid-hole) **`Full` `FOSS`**    
    	- [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote) **`Full`**    
-   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**   
+   	- [Tremotesf](https://github.com/equeim/tremotesf-android) **`Monet` `FOSS`**
    	- [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-` `FOSS`**
    	- [Simple WOL](https://github.com/herzhenr/simple-wake-on-lan) **`MD` `FOSS`**
+   	- [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - **组件库与演示**
    	- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) **`Full` `FOSS`**    
    	- [Material Components Gallery](https://github.com/NUmeroAndDev/MaterialGallery-android) **`Full` `FOSS`**    
