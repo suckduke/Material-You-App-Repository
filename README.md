@@ -1380,7 +1380,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - **Proxy**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
    	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
-   	- [WireGuard](https://git.zx2c4.com/wireguard-android/) **`Full` `FOSS`**
+   	- [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
    	- [Clash You](https://github.com/Yos-X/ClashYou) **`Full` `FOSS`**
