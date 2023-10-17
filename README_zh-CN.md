@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
+- [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -345,6 +345,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog) **`MD`**
 - [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc) **`MD-` `Monet`**
 - [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
+- [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`** 
 ---
 ### 👨‍💻[OEM 厂商/类原生定制应用](#目录)
 据我所知，目前：
