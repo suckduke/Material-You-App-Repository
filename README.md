@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
+- [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -332,6 +332,7 @@ As the father of Material You, Google is changing its applications to Material D
 - [Compose Material Catalog](https://play.google.com/store/apps/details?id=androidx.compose.material.catalog) **`MD`**
 - [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc) **`MD-` `Monet`**
 - [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
+- [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 ---
 ### 👨‍💻[OEM Apps](#applist-menu)
 As I know, 
