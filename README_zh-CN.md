@@ -1391,7 +1391,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [集装箱](https://wwqp.lanzoue.com/i4Tc610sysre?p) **`MD`**
 - **代理工具**
    	- [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard) **`Full` `Multi`**
-   	- [Clash for Android](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `FOSS`**
+   	- [Clash Multiplatform](https://t.me/+kqvN73Ap1ixhY2Q1) **`MD` `Multi` `👻`**
    	- [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) **`Full` `FOSS`**
    	- [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full` `FOSS`**
    	- [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn) **`Full` `💴`**
