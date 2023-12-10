@@ -279,6 +279,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
+- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
@@ -291,7 +292,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [MeRead](https://github.com/gvenusleo/MeRead) **`Full` `FOSS`**
 - [PiliPala](https://github.com/guozhigq/pilipala) **`Full` `FOSS`**
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
-- [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 ## 📱应用列表
@@ -428,7 +428,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Joey for Reddit](https://play.google.com/store/apps/details?id=o.o.joey) **`MD-` `Monet`**
 - **Discord 客户端**
 	- [OpenCord](https://github.com/MateriiApps/OpenCord) **`Full` `FOSS`**
-    - [Discord](https://play.google.com/store/apps/details?id=com.discord) (Alpha) **`MD-` `Multi`**
 - **Twitter (𝕏) 第三方**
 	- [harpy for Twitter](https://github.com/robertodoering/harpy) **`Monet` `FOSS`**
 	- [Albatross for Twitter](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross) **`Monet` `👻`**
