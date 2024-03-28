@@ -96,25 +96,25 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **通讯录**
 	- **拨号**
 	- **短信**
-	- **Telegram 第三方**
+	- **Telegram 客户端**
    - **Matrix 客户端**
 	- **加密通讯软件**
-	- **Instagram 第三方**
-	- **Reddit 第三方**
+	- **Instagram 客户端**
+	- **Reddit 客户端**
 	- **Discord 客户端**
-	- **Twitter (𝕏) 第三方**
-	- **Mastodon 及其第三方**
-	- **Lemmy 第三方**
+	- **Twitter (𝕏) 客户端**
+	- **Mastodon 客户端**
+	- **Lemmy 客户端**
 	- **其他去中心化社交平台**
 	- **论坛**
 	- **邮件**
 	- **其他**
 - **[🎵 媒体播放](#媒体播放)**
-	- **YouTube 第三方**
-	- **YouTube Music 第三方**
-	- **Spotify 第三方**
-	- **网易云音乐第三方**
-	- **Bilibili 第三方**
+	- **YouTube 客户端**
+	- **YouTube Music 客户端**
+	- **Spotify 客户端**
+	- **网易云音乐客户端**
+	- **Bilibili 客户端**
 	- **流式媒体服务器**
 	- **番剧**
 	- **在线视频播放**
