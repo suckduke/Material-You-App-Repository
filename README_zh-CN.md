@@ -1541,7 +1541,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full` `FOSS`**    
    	- [JoiPlay](https://joiplay.org/) **`Full` `💴`**    
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD` `FOSS`** 
-   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi` `FOSS`**
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi` `FOSS` `👻`**
    	- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - **乐器弹奏**
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet` `FOSS`**
