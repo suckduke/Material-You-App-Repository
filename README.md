@@ -1530,7 +1530,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Rekado](https://github.com/MenosGrante/Rekado) **`Full` `FOSS`**    
    	- [JoiPlay](https://joiplay.org/) **`Full` `💴`**    
    	- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) **`MD` `FOSS`**
-   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi` `FOSS`**
+   	- [Yuzu Emulator](https://github.com/yuzu-emu/yuzu) **`Full` `Multi` `FOSS` `👻`**
    	- [Engine](https://github.com/whitescent/Engine) **`Full` `FOSS`**
 - **Instruments**    
    	- [Metronome](https://github.com/Kr0oked/Metronome) **`MD-` `Monet` `FOSS`**
