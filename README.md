@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1207,6 +1207,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Accessibility Manager](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
    	- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD` `FOSS`**
    	- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
+   	- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
