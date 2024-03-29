@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
 - [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Gramophone](https://github.com/AkaneTan/Gramophone/) **`Full` `FOSS` `TODO`**
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1218,6 +1218,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [无障碍管理器](https://www.coolapk.com/apk/com.accessibilitymanager) **`Monet`**
    	- [静音提示器](https://github.com/mueller-ma/MuteReminder) **`MD` `FOSS`**
    	- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
+   	- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 ---
 ## [🧰小工具](#目录)
 - **下载器**
