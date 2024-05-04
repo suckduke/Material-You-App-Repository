@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
+- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1310,6 +1310,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full` `FOSS`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full` `FOSS`**
    	- [Kakunin](https://github.com/zsakvo/Kakunin-Mobile) **`Full` `FOSS`**
+   	- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 - **Password Manager**    
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**    
    	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**    
