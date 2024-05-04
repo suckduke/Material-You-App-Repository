@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [SimpMusic](https://github.com/maxrave-dev/SimpMusic) **`Full` `FOSS`**
 - [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [ServerBox](https://github.com/lollipopkit/flutter_server_box) **`MD` `FOSS`**
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
+- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -1321,6 +1321,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
    	- [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) **`Full` `FOSS`**
    	- [Keyring OTP](https://gitlab.com/aorszulak/keyring) **`Full` `FOSS`**
    	- [踟蹰](https://github.com/zsakvo/Kakunin-Mobile) **`Full` `FOSS`**
+   	- [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 - **密码管理**
    	- [Keyspace](https://github.com/Keyspace-cloud/android) **`MD` `FOSS`**    
    	- [PassStore](https://play.google.com/store/apps/details?id=app.jjyy.passstore) **`Full` `💴`**    
