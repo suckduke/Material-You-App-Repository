@@ -1473,7 +1473,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 ## [#️⃣Root/ADB](#目录)
 - **管理器**
    	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full` `FOSS`**    
-   	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`Full` `FOSS`**    
+   	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`-MD` `FOSS`**    
    	- [LSPosed Manager](https://github.com/LSPosed/LSPosed) **`Full` `Multi` `FOSS`**    
    	- [KernelSU](https://kernelsu.org/) **`Full` `FOSS`**    
    	- [MRepo](https://github.com/ya0211/MRepo) **`Full` `FOSS`**   
