@@ -1462,7 +1462,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [#️⃣Root/ADB](#applist-menu)
 - **Manager**   
    	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full` `FOSS`**    
-   	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`Full` `FOSS`**    
+   	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`-MD` `FOSS`**
    	- [LSPosed Manager](https://github.com/LSPosed/LSPosed) **`Full` `Multi` `FOSS`**    
    	- [KernelSU](https://kernelsu.org/) **`Full` `FOSS`**    
    	- [MRepo](https://github.com/ya0211/MRepo) **`Full` `FOSS`**   
