@@ -267,7 +267,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
@@ -282,6 +281,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
 - [Viola Browser](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 - [FlClash](https://github.com/chen08209/FlClash) **`Full` `Multi` `FOSS`**
+- [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -1210,6 +1210,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD` `FOSS`**
    	- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
    	- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
+   	- [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
