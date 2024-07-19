@@ -1210,7 +1210,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Mute Reminder](https://github.com/mueller-ma/MuteReminder) **`MD` `FOSS`**
    	- [Sim Card Store Management](https://github.com/maxrave-dev/SimCardStoreManagement) **`MD` `FOSS`**
    	- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
-   	- [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
 ---
 ### [🧰Tools](#applist-menu)
 - **Downloader**
@@ -1528,6 +1527,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Preload](https://github.com/feravolt/Preload-docs) **`Full` `Multi` `💴`**
    	- [BCR](https://github.com/chenxiaolong/BCR) **`MD-` `Monet` `Multi` `FOSS`**
    	- [Pixel IMS](https://1drv.ms/u/s!Atk49Scq_BtYhSM8SLgvT2xRvOza?e=qkm7qI) **`Full`**
+   	- [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
 ---
 ### [🎮Games](#applist-menu)
 - **Emulator**    
