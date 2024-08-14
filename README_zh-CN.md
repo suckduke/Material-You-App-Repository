@@ -280,7 +280,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
 - [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
@@ -295,6 +294,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Viola浏览器](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 - [FlClash](https://github.com/chen08209/FlClash) **`Full` `Multi` `FOSS`**
 - [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
+- [Bura](https://github.com/davidtakac/bura) **`Full` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -816,6 +816,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- [Cloud Bits](https://github.com/Saronik5883/Cloud-Bits) **`TODO` `FOSS`**
 	- [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou) **`Full` `Multi` `👻`**
 	- [QWeather](https://github.com/Henry-Hiles/QWeather) **`Full` `FOSS`**
+    - [Bura](https://github.com/davidtakac/bura) **`Full` `FOSS`**
 - **地图导航**
 	- [BTC Map](https://github.com/teambtcmap/btcmap-android) **`MD-` `FOSS`**
 	- [Tridenta](https://github.com/Stypox/tridenta) **`Full` `FOSS`**
